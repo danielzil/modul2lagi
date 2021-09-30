@@ -1,4 +1,4 @@
-{{-- <!DOCTYPE html>
+<!-- {{-- <!DOCTYPE html>
 <html>
    <head>
       <meta charset="utf-8">
@@ -16,4 +16,4 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" type="text/js"></script>
    </body>
-</html> --}} rrrrrr
+</html> --}} -->
