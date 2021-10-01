@@ -96,7 +96,7 @@
         <thead>
             <tr class="table-warning">
               <td>ID</td>
-              <td>Story</td>
+              <td>Coba Story</td>
               <td>Points</td>
               <td>Actual Points</td>
               <td>Remaining Points</td>
